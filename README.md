@@ -1,14 +1,20 @@
 Program created to test my ability to build Data Structures and Algorithms.
 
 Currently Supported:
+Searches:
 - Linear Search
+- Binary Search
+Sorts:
+- Bubble Sort
 - Quick Sort
 
-Planned:
+Data Structures:
 - Queue
 - Stack
+
+Planned:
 - Min/MaxHeap
 - Binary Search Trees
 - Linked Lists
-- Bubble Sort
-- Binary Search
+- LRU Cache
+- HashMaps
